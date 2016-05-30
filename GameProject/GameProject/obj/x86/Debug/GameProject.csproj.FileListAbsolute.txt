@@ -1,0 +1,138 @@
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\spacebkg.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\spacebkg.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb

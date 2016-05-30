@@ -1,0 +1,7 @@
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\start\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 2\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\A.T\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 1\Step 3\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+E:\Dropbox\Courses\MOOC\Spring 2015\Project Increments\solution\increment 2 video\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Cynical\Documents\Visual Studio 2013\Projects\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Cynical\Desktop\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
